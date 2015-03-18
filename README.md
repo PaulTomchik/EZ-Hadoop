@@ -1,7 +1,9 @@
 #Setting up a Virtual Hadoop Cluster.
 
 The end result of these instructions will be an Hadoop cluster with three servers running in VirtualBox.
-###Note: These instructions, and associated scripts, are subject to change.
+
+###Note: These instructions, and associated scripts, are a work in progress. They are meant to get Hadoop up and running quickly. There is no guarantees regarding the correctness of the configurations, nor their optimality.
+
 ###The following follows [highlyscalablesystems](http://www.highlyscalablesystems.com/3597/hadoop-installation-tutorial-hadoop-2-x/).
 
 ##Instructions
